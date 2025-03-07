@@ -1,11 +1,4 @@
-# ANN Data Analysis Tool
-
-This repository contains tools for data analysis using Artificial Neural Networks (ANN).
-
-## Contents
-
-- `ann_analysis.py`: Main module with ANN implementation, data preprocessing, and evaluation functions
-- `example_analysis.ipynb`: Example notebook demonstrating usage of the ANN analysis tool
-
-## Requirements
+## File To See
+- Only see the file "f.ipynb" to analyse my latest model.
+- submissions02.csv is the output submission csv 
 
